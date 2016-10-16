@@ -1,0 +1,1 @@
+<h1>This is a simple TestView under /views/test/testView.gsp</h1>
