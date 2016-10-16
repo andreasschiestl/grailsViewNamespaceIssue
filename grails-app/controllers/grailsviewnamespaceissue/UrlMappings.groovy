@@ -3,9 +3,8 @@ package grailsviewnamespaceissue
 class UrlMappings {
 
     static mappings = {
-        "/$controller/$action?/$id?(.$format)?"{
+        "/$namespace/$controller/$action?/$id?(.$format)?"{
             constraints {
-                // apply constraints here
             }
         }
 
